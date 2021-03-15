@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252607019065",
+    "project_id": "book-store-7919c",
+    "storage_bucket": "book-store-7919c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252607019065:android:077f6f3b57cb7ef43175e8",
+        "android_client_info": {
+          "package_name": "com.oldbookscart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252607019065-ljm87ds7v5krmk1fe686er5tbu4q80cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6THU-ac3jjajRG-ROJ3Rwlj3To7QOVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252607019065-ljm87ds7v5krmk1fe686er5tbu4q80cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
